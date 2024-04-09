@@ -1,0 +1,3 @@
+D:/Fourth Year_first_term/Soft Computing/Assignments/AssignmentOne/knapsackCode/cmake-build-debug/CMakeFiles/knapsackCode.dir
+D:/Fourth Year_first_term/Soft Computing/Assignments/AssignmentOne/knapsackCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fourth Year_first_term/Soft Computing/Assignments/AssignmentOne/knapsackCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

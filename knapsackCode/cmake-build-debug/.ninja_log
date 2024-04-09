@@ -1,0 +1,19 @@
+# ninja log v5
+1	1850	7211560957743518	CMakeFiles/knapsackCode.dir/final.cpp.obj	f49fad4db526cbd1
+1	104	7211571707648327	build.ninja	8046af3a67fb71a5
+4	802	7211571499304594	CMakeFiles/knapsackCode.dir/main.cpp.obj	5d9490fbf359ab48
+802	951	7211571500766585	knapsackCode.exe	63bc388af13034c4
+4	560	7211379668663082	CMakeFiles/knapsackCode.dir/chatgptSolution.cpp.obj	bbe4877b0656c516
+8	1887	7211454116827365	CMakeFiles/knapsackCode.dir/test1.cpp.obj	e34571c486e3aa
+4	861	7211679340805834	CMakeFiles/knapsackCode.dir/main.cpp.obj	5d9490fbf359ab48
+861	1026	7211679342430378	knapsackCode.exe	63bc388af13034c4
+3	798	7211712279002537	CMakeFiles/knapsackCode.dir/main.cpp.obj	5d9490fbf359ab48
+799	948	7211712280470629	knapsackCode.exe	63bc388af13034c4
+4	891	7211714572565708	CMakeFiles/knapsackCode.dir/main.cpp.obj	5d9490fbf359ab48
+891	1071	7211714574344190	knapsackCode.exe	63bc388af13034c4
+9	1466	7211750949919369	CMakeFiles/knapsackCode.dir/main.cpp.obj	5d9490fbf359ab48
+1466	2016	7211750955366108	knapsackCode.exe	63bc388af13034c4
+3	818	7211777023234723	CMakeFiles/knapsackCode.dir/main.cpp.obj	5d9490fbf359ab48
+819	992	7211777024957470	knapsackCode.exe	63bc388af13034c4
+5	798	7211778639471752	CMakeFiles/knapsackCode.dir/main.cpp.obj	5d9490fbf359ab48
+798	945	7211778640879507	knapsackCode.exe	63bc388af13034c4
